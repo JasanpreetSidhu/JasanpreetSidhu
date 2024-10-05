@@ -1,4 +1,4 @@
-# Hi there, I'm Jasan! 👋
+# Hi, I'm Jasan! 👋
 
 ## About Me
 - 👀 I’m interested in **software development, AI technologies, and front-end web development.**

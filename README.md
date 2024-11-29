@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on **open-source projects related to web development, AI-powered tools, and innovative software solutions using Java, JavaScript and Python.**
 - 📫 How to reach me: **jasanpreetsinghsidhu@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love participating in hackathons and coding competitions to sharpen my problem-solving skills!**
+- ⚡ Fun fact: **I love participating in hackathons and coding competitions to collaborate and sharpen my problem-solving skills!**
 
 ## 🔧 Projects I've Worked On
 - 💻 **Flight Management and Booking Application**:  

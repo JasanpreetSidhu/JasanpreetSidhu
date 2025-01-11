@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **software development, AI technologies, and front-end web development.**
-- 🌱 I’m currently learning **AI integration with web applications, specifically using OpenAI APIs, along with improving my skills in Java, JavaScript and Python.**
+- 🌱 I’m currently learning **AI integration with web applications, specifically using OpenAI's API, along with improving my skills in Java, JavaScript and Python.**
 - 💞️ I’m looking to collaborate on **projects related to web development, AI-powered tools, and innovative software solutions using Java, JavaScript and Python.**
 - 📫 How to reach me: **jasanpreetsinghsidhu@gmail.com**
 - 😄 Pronouns: **He/Him**

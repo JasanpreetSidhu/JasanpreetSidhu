@@ -2,11 +2,16 @@
 
 ## About Me
 - 👀 I’m interested in **software development, AI technologies, and front-end web development.**
-- 🌱 I’m currently learning **AI integration with web applications, specifically using OpenAI's API, along with improving my skills in Java, JavaScript, PHP and Python.**
+- 🌱 I’m currently learning **react, wordpress and node.js**
 - 💞️ I’m looking to collaborate on **projects related to web development, AI-powered tools, and innovative software solutions using Java, JavaScript, PHP and Python.**
 - 📫 How to reach me: **jasanpreetsinghsidhu@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love participating in hackathons and coding competitions to collaborate and sharpen my problem-solving skills!**
+
+💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,java,python,c,cpp,cs,dotnet,php,netlify,bootstrap,mysql,ubuntu,figma,git)](https://skillicons.dev)
+
 
 ## 🔧 Projects I've Worked On
 - 🛒 **Shopping List App**:  

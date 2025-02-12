@@ -14,22 +14,22 @@
 
 
 ## 🔧 Projects I've Worked On
-- 🛒 **Shopping List App**:  
+- 🛒 **[Shopping List App](https://github.com/JasanpreetSidhu/shopping-list-app)**:  
   A dynamic shopping list manager built with vanilla JavaScript, featuring item creation, editing, removal, search, and browser-based persistence in a responsive UI.
 
-- 👤 **User Profile Viewer**:  
+- 👤 **[User Profile Viewer](https://github.com/JasanpreetSidhu/user-profile-viewer)**:  
   An application that fetches and displays user data from the Random User API, with dynamic DOM updates, responsive design, and interactive profile navigation.
 
-- ✅ **Manage To-dos**:  
+- ✅ **[Manage To-dos](https://github.com/JasanpreetSidhu/manage-todos)**:  
   A task management app integrated with a REST API, allowing users to add, update, and delete to-dos with real-time interface updates and interactive features.
 
-- 😂 **Laughter Lab**:  
+- 😂 **[Laughter Lab](https://github.com/JasanpreetSidhu/laughter-lab)**:  
   A web app showcasing random jokes from the Chuck Norris API, leveraging asynchronous JavaScript for seamless updates and an engaging user experience.
 
-- 💻 **Flight Management and Booking Application**:  
+- 💻 **[Flight Management and Booking Application](https://github.com/JasanpreetSidhu/Flight-Management-and-Booking-Application)**:  
   A Java-based console application for managing flights and bookings, with features like error checking and data validation for security and reliability.
   
-- 🌐 **H5P Interactive Book with Quiz**:  
+- 🌐 **[H5P Interactive Book with Quiz](https://github.com/JasanpreetSidhu/H5P-Interactive-Book-with-Quiz)**:  
   A dynamic, responsive one-page website developed with HTML5, H5P, and Bootstrap to create an interactive experience for users.
   
 ## Get in Touch
